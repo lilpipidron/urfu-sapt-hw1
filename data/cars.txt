@@ -1,0 +1,10 @@
+Lada Vesta,106,2019
+Toyota Camry,181,2018
+BMW X5,249,2015
+Kia Rio,123,2020
+Ford Focus,105,2012
+Tesla,abc,2021
+Volkswagen Polo,90,2017
+Audi A6,,2016
+Hyundai Solaris,123,2022
+Mercedes,300,1850
